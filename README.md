@@ -1,5 +1,5 @@
 #### deep-learning-models
-A series of notebooks of machine learning applications implemented in PyTorch and Tensorflow
+A series of notebooks of machine learning examples and applications implemented in PyTorch and Tensorflow
 
 ### Clone and pull updates
 ```bash
