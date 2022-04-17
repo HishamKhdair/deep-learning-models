@@ -1,7 +1,7 @@
 #### deep-learning-models
 A series of notebooks of machine learning examples and applications implemented in PyTorch and Tensorflow
 
-### Clone and pull updates
+### Clone 
 ```bash
 git clone https://github.com/HishamKhdair/deep-learning-models.git
 cd deep-learning-models
