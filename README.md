@@ -1,5 +1,5 @@
-#### Deep Learning Models
-A series of notebooks of machine learning examples and applications implemented in PyTorch and Tensorflow
+#### Deep Learning Notebooks
+A series of notebooks of deep learning examples and applications implemented in PyTorch and Tensorflow
 
 #### TOC 
 
@@ -11,15 +11,15 @@ coming up soon...
 @misc{
   title={Deep Learning Notebooks},
   author={Khdair H},
-  journal={https://https://github.com/HishamKhdair/deep-learning-models},
+  journal={https://https://github.com/HishamKhdair/deep-learning-notebooks},
   year={2022}
 }
 ```
 
 #### Clone 
 ```bash
-git clone https://github.com/HishamKhdair/deep-learning-models.git
-cd deep-learning-models
+git clone https://github.com/HishamKhdair/deep-learning-notebooks.git
+cd deep-learning-notebooks
 ```
 then pull for updates
 ```bash
