@@ -5,7 +5,7 @@ A series of notebooks of machine learning examples and applications implemented 
 
 coming up soon...
 
-Please cite the following if you use any code from the provided notebooks in your research:
+##### Please cite the following if you use any code from the provided notebooks in your teaching or research:
 
 ```
 @misc{
