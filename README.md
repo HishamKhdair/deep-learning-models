@@ -9,3 +9,10 @@ cd deep-learning-models
 
 Please cite the following if you use any code from the provided notebooks in your research:
 
+@misc{
+  title={Deap Learning Notebooks},
+  author={Khdair H},
+  journal={https://github.com/HishamKhdair/deep-learning-models.git},
+  year={2022}
+}
+
