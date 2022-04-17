@@ -5,7 +5,7 @@ A series of notebooks of deep learning examples and applications implemented in 
 
 coming up soon...
 
-##### Please cite the following if you use any code from the provided notebooks in your teaching or research:
+##### Please cite the following if you use an example from the provided notebooks in your teaching or research:
 
 ```
 @misc{
