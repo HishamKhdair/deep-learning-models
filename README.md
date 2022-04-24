@@ -10,7 +10,7 @@ coming up soon ...
 ```
 @misc{
   title={Deep Learning Notebooks},
-  author={Khdair H},
+  author={Khdair, Hisham},
   journal={https://https://github.com/HishamKhdair/deep-learning-notebooks},
   year={2022}
 }
